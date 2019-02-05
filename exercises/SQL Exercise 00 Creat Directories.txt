@@ -1,0 +1,13 @@
+ Directory of C:\Users\mich\Cohort 06\ISTA220
+
+01/10/2019  09:39 PM    <DIR>          .
+01/10/2019  09:39 PM    <DIR>          ..
+01/10/2019  04:03 PM    <DIR>          Exercises
+01/10/2019  03:58 PM    <DIR>          Homework
+01/10/2019  04:03 PM    <DIR>          Labs
+01/10/2019  08:50 PM    <DIR>          Notes
+01/10/2019  09:39 PM                 0 README.md
+               1 File(s)              0 bytes
+               6 Dir(s)  809,345,650,688 bytes free
+
+C:\Users\mich\Cohort 06\ISTA220>

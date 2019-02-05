@@ -1,0 +1,20 @@
+.echo on
+.headers on
+
+--Name: Michelle Caballero
+--File: SQL Exercise 01
+--Date: 10 January 2019
+
+sqlite> select * from gymschedule;
+1|RiseUP Yoga|Monday|545
+2|UpBeat Barre|Monday|1740
+3|Pole Level 1|Monday|1970
+4|TwerkOut|Tuesday|545
+5|Aerial Silks Level 1|Tuesday|1730
+6|Deep Stretch & Destress Yoga|Tuesday|1920
+
+sqlite> select * from gymschedule where day = "Monday";
+1|RiseUP Yoga|Monday|545
+2|UpBeat Barre|Monday|1740
+3|Pole Level 1|Monday|1970
+sqlite>
